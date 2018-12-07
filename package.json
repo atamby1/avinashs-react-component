@@ -1,7 +1,7 @@
 {
   "name": "@summitllc/avinashs-react-component",
   "version": "0.0.2",
-  "description": "summit-react-component React component",
+  "description": "avinash-react-component React component",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [

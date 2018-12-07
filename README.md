@@ -1,4 +1,4 @@
-# summit-react-component
+# avinashs-react-component
 
 [![Travis][build-badge]][build]
 [![npm package][npm-badge]][npm]
