@@ -27,6 +27,8 @@ import AvinashsReactComponent from "@summitllc/avinashs-react-component";
 function Demo() {
   return <AvinashsReactComponent message={"My message"} />;
 }
+
+export default Demo;
 ```
 
 [build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square

@@ -1,11 +1,9 @@
-import React, { Component } from "react";
+import React from "react";
 
-export default class extends Component {
-  render() {
-    return (
-      <div>
-        <h2>{this.props.message}</h2>
-      </div>
-    );
-  }
+export default function({ message = "Today is Friday." }) {
+  return (
+    <div>
+      <h2>{message}</h2>
+    </div>
+  );
 }
