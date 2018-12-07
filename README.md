@@ -6,6 +6,12 @@
 
 Avinash's React component is the best.
 
+## Install:
+
+```
+npm i @summitllc/avinashs-react-component
+```
+
 ## Props
 
 | Name    | Default | Required | Description                |
